@@ -1,0 +1,19 @@
+# Image datasets (not tracked)
+train_images/
+processed_images/
+augmented_images/
+quantom_dataset/
+data/
+
+# Individual image outputs
+result1.jpg
+result2.jpg
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.pth
