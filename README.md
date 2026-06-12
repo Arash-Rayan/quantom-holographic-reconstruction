@@ -229,6 +229,3 @@ python marateb.py
 - `marateb.py` was exported from Google Colab; increase `EPOCHS` (e.g. 50–100) for stronger results.
 - Repo name: **Quantom**; model names: **QHUP** / **QIUP**.
 
-## License
-
-No license file is included yet. Add one before public distribution.
